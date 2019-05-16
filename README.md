@@ -6,12 +6,13 @@
 - [Componenentes inclusivos](https://inclusive-components.design/)
 - [Zen Garden](http://www.csszengarden.com/)
 - [Mantenha os arquivos de um componente no mesmo lugar](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170#ea98)
-- [Um dos recursos mais poderosos do css - cascata](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f)
+- [Um dos recursos mais poderosos do css - cascata](https://medium.com/buildit/a-tale-of-two-buttons-e63185aefd5f)''
 
-
+```
 ui _ atoms/
     |
     |_ buttons.less
     |_ buttons.js
     |_ buttons.spec.js
     |_ buttons.md
+```
